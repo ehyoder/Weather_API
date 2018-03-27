@@ -1,0 +1,8 @@
+Beth Yoder
+3/27/2018
+
+Observed Trends from WeatherMapy Homework
+
+1) Temperatures are highest for equatorial cities, and decrease the further a city is from the equator; however, the graphs reflects seasonal differences in the hemispheres.
+2) There is no relationship between latitude and wind speed.
+3) There is a possible weak relationship between humidity and latitude, wheras cities at higher latitudes have higher humidity. 
